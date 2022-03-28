@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+quote: "To Wierd to live, to rare to Die!"
 Use the left arrow to go back!
